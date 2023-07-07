@@ -7,6 +7,7 @@ How to use:
   - make sure you have all the imports already installed on your computer
   - run the application from Pycharm or any other IDE
   - press the big red RECOMMEND button to generate a random movie
+    
 Optional, if you want to run the app like an .exe file instead of running it from an IDE:
   - install pyinstaller in command prompt using ```pip install pyinstaller``` (WINDOWS)
   - open up your python project folder in command line prompt
