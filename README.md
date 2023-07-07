@@ -1,5 +1,6 @@
 # Movie-recommender
 Python web scraping
+
 How to use:
   - first of all you are going to need your very own API key to get detailed information of the movie. You can get a FREE API key here: http://www.omdbapi.com/
   - once you have your API key copy it and paste it into the ```py omdbApi_key``` varialbe
