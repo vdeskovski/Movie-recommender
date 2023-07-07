@@ -12,4 +12,4 @@ Optional, if you want to run the app like an .exe file instead of running it fro
   - install pyinstaller in command prompt using ```pip install pyinstaller``` (WINDOWS)
   - open up your python project folder in command line prompt
   - to make an .exe file use this command: ```pyinstaller main.py --onefile -w```
-  - after that navigate to your project folder, open ```dist``` folder and you should have a main.exe file that you can open.
+  - after that, navigate to your project folder, you should see 3 new folder. Open up your newly created ```dist``` folder and you should have a main.exe file that you can open.
